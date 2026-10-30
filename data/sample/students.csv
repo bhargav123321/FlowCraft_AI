@@ -1,0 +1,101 @@
+student_id,name,department,attendance,marks,email,semester,city,assignments_completed,fees_paid,placement_status,company,package_lpa
+101,Aarav Sharma,CSE,71.1,46.6,aarav.sharma@example.com,1,Hyderabad,13,Paid,Not Eligible,,
+102,Diya Patel,ECE,95.9,77.5,diya.patel@example.com,2,Bangalore,9,Paid,Placed,Infosys,7.11
+103,Vivaan Gupta,IT,86.5,61.0,vivaan.gupta@example.com,3,Chennai,6,Paid,Placed,Accenture,5.17
+104,Ananya Singh,EEE,80.7,70.9,ananya.singh@example.com,4,Pune,13,Paid,Placed,Accenture,4.21
+105,Reyansh Kumar,Mechanical,61.7,91.3,reyansh.kumar@example.com,5,Mumbai,9,Paid,Not Eligible,,
+106,Ishaan Verma,Civil,61.7,57.7,ishaan.verma@example.com,6,Delhi,11,Paid,Not Eligible,,
+107,Aadhya Reddy,AI&DS,57.5,65.9,aadhya.reddy@example.com,7,Kolkata,13,Paid,Not Eligible,,
+108,Vihaan Joshi,CSE,92.2,83.5,vihaan.joshi@example.com,8,Hyderabad,9,Paid,Placed,Google,25.1
+109,Saanvi Mehta,ECE,80.8,56.7,saanvi.mehta@example.com,1,Bangalore,8,Paid,Not Placed,,
+110,Krishna Rao,IT,85.4,48.9,krishna.rao@example.com,2,Chennai,14,Paid,Not Eligible,,
+111,Avani Nair,EEE,55.9,59.8,avani.nair@example.com,3,Pune,8,Paid,Not Eligible,,
+112,Arjun Shah,Mechanical,96.7,53.2,arjun.shah@example.com,4,Mumbai,14,Paid,Not Placed,,
+113,Sai Iyer,Civil,90.8,92.4,sai.iyer@example.com,5,Delhi,7,Paid,Placed,Amazon,31.85
+114,Myra Choudhury,AI&DS,64.1,86.2,myra.choudhury@example.com,6,Kolkata,7,Paid,Not Eligible,,
+115,Kabir Sen,CSE,62.8,77.3,kabir.sen@example.com,7,Hyderabad,7,Paid,Not Eligible,,
+116,Aditi Kulkarni,ECE,62.9,89.4,aditi.kulkarni@example.com,8,Bangalore,11,Paid,Not Eligible,,
+117,Shaurya Das,IT,68.1,86.0,shaurya.das@example.com,1,Chennai,8,Paid,Placed,Infosys,4.5
+118,Riya Bhatt,EEE,77.6,54.5,riya.bhatt@example.com,2,Pune,14,Paid,Not Placed,,
+119,Dhruv Menon,Mechanical,73.6,90.5,dhruv.menon@example.com,3,Mumbai,9,Paid,Placed,Cognizant,4.45
+120,Tara Pillai,Civil,67.5,72.5,tara.pillai@example.com,4,Delhi,6,Paid,Placed,TCS,4.45
+121,Aryan Deshmukh,AI&DS,81.3,86.2,aryan.deshmukh@example.com,5,Kolkata,9,Paid,Placed,Wipro,11.27
+122,Kavya Pandey,CSE,61.0,90.7,kavya.pandey@example.com,6,Hyderabad,6,Paid,Not Eligible,,
+123,Rohan Bhatia,ECE,67.6,61.2,rohan.bhatia@example.com,7,Bangalore,10,Paid,Placed,TCS,4.78
+124,Pooja Hegde,IT,70.8,50.6,pooja.hegde@example.com,8,Chennai,9,Paid,Not Placed,,
+125,Manish Tiwari,EEE,74.6,56.6,manish.tiwari@example.com,1,Pune,13,Pending,Not Placed,,
+126,Meera Nambiar,Mechanical,88.8,66.8,meera.nambiar@example.com,2,Mumbai,13,Paid,Placed,TCS,3.71
+127,Aditya Ghosh,Civil,63.6,86.7,aditya.ghosh@example.com,3,Delhi,12,Paid,Not Eligible,,
+128,Tanvi Saxena,AI&DS,77.1,88.9,tanvi.saxena@example.com,4,Kolkata,8,Paid,Placed,Infosys,11.29
+129,Siddharth Mishra,CSE,80.5,45.4,siddharth.mishra@example.com,5,Hyderabad,6,Paid,Not Eligible,,
+130,Prisha Jain,ECE,57.0,71.0,prisha.jain@example.com,6,Bangalore,6,Paid,Not Eligible,,
+131,Atharv Agarwal,IT,81.1,66.3,atharv.agarwal@example.com,7,Chennai,8,Paid,Not Placed,,
+132,Sneha Roy,EEE,62.3,56.3,sneha.roy@example.com,8,Pune,11,Paid,Not Eligible,,
+133,Dev Kapoor,Mechanical,57.8,51.1,dev.kapoor@example.com,1,Mumbai,12,Pending,Not Eligible,,
+134,Bhavya Venkatesh,Civil,95.8,62.2,bhavya.venkatesh@example.com,2,Delhi,11,Paid,Not Placed,,
+135,Kunal Sengupta,AI&DS,96.5,93.1,kunal.sengupta@example.com,3,Kolkata,11,Paid,Placed,Wipro,9.58
+136,Isha Sethi,CSE,89.8,61.5,isha.sethi@example.com,4,Hyderabad,11,Paid,Placed,Infosys,6.03
+137,Harsh Vardhan,ECE,68.1,71.5,harsh.vardhan@example.com,5,Bangalore,8,Paid,Placed,Wipro,5.91
+138,Shreya Kaul,IT,59.2,80.9,shreya.kaul@example.com,6,Chennai,11,Paid,Not Eligible,,
+139,Samarth Mathur,EEE,84.4,63.5,samarth.mathur@example.com,7,Pune,13,Paid,Placed,Cognizant,6.51
+140,Anushka Dutta,Mechanical,73.9,94.6,anushka.dutta@example.com,8,Mumbai,7,Paid,Placed,TCS,3.95
+141,Yash Mittal,Civil,60.2,94.1,yash.mittal@example.com,1,Delhi,10,Paid,Not Eligible,,
+142,Navya Somani,AI&DS,76.3,57.8,navya.somani@example.com,2,Kolkata,6,Paid,Not Placed,,
+143,Karan Ahuja,CSE,56.5,70.4,karan.ahuja@example.com,3,Hyderabad,6,Paid,Not Eligible,,
+144,Rani Mukherji,ECE,94.1,60.3,rani.mukherji@example.com,4,Bangalore,10,Pending,Placed,Infosys,3.73
+145,Varun Bajaj,IT,66.1,59.5,varun.bajaj@example.com,5,Chennai,8,Paid,Not Placed,,
+146,Divya Srinivasan,EEE,83.5,46.9,divya.srinivasan@example.com,6,Pune,9,Paid,Not Eligible,,
+147,Tejas Patil,Mechanical,68.4,76.1,tejas.patil@example.com,7,Mumbai,8,Paid,Placed,Cognizant,6.45
+148,Khushi Agarwal,Civil,77.4,70.6,khushi.agarwal@example.com,8,Delhi,6,Paid,Placed,Wipro,3.97
+149,Nikhil Dhawan,AI&DS,78.5,47.6,nikhil.dhawan@example.com,1,Kolkata,6,Paid,Not Eligible,,
+150,Pari Chauhan,CSE,62.9,59.2,pari.chauhan@example.com,2,Hyderabad,10,Paid,Not Eligible,,
+151,Rahul Roy,ECE,96.7,91.3,rahul.roy@example.com,3,Bangalore,11,Paid,Placed,TCS,9.66
+152,Anjali Menon,IT,88.3,57.2,anjali.menon@example.com,4,Chennai,8,Paid,Not Placed,,
+153,Kiran Das,EEE,95.4,52.4,kiran.das@example.com,5,Pune,14,Paid,Not Placed,,
+154,Manoj Kumar,Mechanical,93.5,70.0,manoj.kumar@example.com,6,Mumbai,10,Paid,Placed,TCS,3.9
+155,Neha Sharma,Civil,80.7,95.3,neha.sharma@example.com,7,Delhi,13,Paid,Placed,Accenture,7.7
+156,Suresh Raina,AI&DS,94.6,57.3,suresh.raina@example.com,8,Kolkata,6,Pending,Not Placed,,
+157,Swati Mohan,CSE,58.8,79.3,swati.mohan@example.com,1,Hyderabad,10,Paid,Not Eligible,,
+158,Vikram Prabhu,ECE,63.4,83.8,vikram.prabhu@example.com,2,Bangalore,8,Paid,Not Eligible,,
+159,Rashmi Hegde,IT,56.9,57.1,rashmi.hegde@example.com,3,Chennai,6,Paid,Not Eligible,,
+160,Gaurav Gill,EEE,69.0,82.1,gaurav.gill@example.com,4,Pune,9,Paid,Not Placed,,
+161,Alok Nath,Mechanical,71.7,63.8,alok.nath@example.com,5,Mumbai,10,Paid,Not Placed,,
+162,Deepa Soni,Civil,66.7,77.2,deepa.soni@example.com,6,Delhi,12,Paid,Placed,Infosys,3.83
+163,Gautam Gambhir,AI&DS,90.6,77.3,gautam.gambhir@example.com,7,Kolkata,6,Paid,Placed,Infosys,6.25
+164,Harita Rao,CSE,70.3,72.3,harita.rao@example.com,8,Hyderabad,8,Paid,Placed,Cognizant,4.98
+165,Inderjeet Singh,ECE,67.1,49.6,inderjeet.singh@example.com,1,Bangalore,7,Paid,Not Eligible,,
+166,Janani Ram,IT,78.3,87.6,janani.ram@example.com,2,Chennai,14,Paid,Placed,TCS,6.28
+167,Karthik Raja,EEE,61.1,61.4,karthik.raja@example.com,3,Pune,15,Paid,Not Eligible,,
+168,Lavanya Sundar,Mechanical,89.5,54.5,lavanya.sundar@example.com,4,Mumbai,11,Paid,Not Placed,,
+169,Madhavan Unni,Civil,58.2,47.1,madhavan.unni@example.com,5,Delhi,15,Paid,Not Eligible,,
+170,Nandini Das,AI&DS,97.4,75.1,nandini.das@example.com,6,Kolkata,8,Paid,Placed,Accenture,11.9
+171,Omkar Kadam,CSE,88.2,79.6,omkar.kadam@example.com,7,Hyderabad,13,Pending,Placed,TCS,7.13
+172,Pallavi Gowda,ECE,63.5,45.8,pallavi.gowda@example.com,8,Bangalore,13,Paid,Not Eligible,,
+173,Raghav Chadha,IT,55.2,71.1,raghav.chadha@example.com,1,Chennai,7,Paid,Not Eligible,,
+174,Sunita Rao,EEE,90.1,56.6,sunita.rao@example.com,2,Pune,11,Paid,Not Placed,,
+175,Tarun Tahiliani,Mechanical,85.4,77.9,tarun.tahiliani@example.com,3,Mumbai,12,Paid,Placed,TCS,5.13
+176,Usha Uthup,Civil,86.3,53.9,usha.uthup@example.com,4,Delhi,7,Paid,Not Placed,,
+177,Vandana Shiva,AI&DS,88.2,80.2,vandana.shiva@example.com,5,Kolkata,15,Paid,Placed,Infosys,7.33
+178,Waseem Akram,CSE,58.2,64.7,waseem.akram@example.com,6,Hyderabad,7,Pending,Not Eligible,,
+179,Xavier Lobo,ECE,70.4,92.8,xavier.lobo@example.com,7,Bangalore,15,Paid,Placed,Infosys,7.13
+180,Yamini Reddy,IT,60.0,52.0,yamini.reddy@example.com,8,Chennai,6,Paid,Not Eligible,,
+181,Zoya Akhtar,EEE,92.1,62.4,zoya.akhtar@example.com,1,Pune,13,Paid,Not Placed,,
+182,Abhay Deol,Mechanical,81.8,50.8,abhay.deol@example.com,2,Mumbai,6,Paid,Not Placed,,
+183,Bina Das,Civil,69.2,92.2,bina.das@example.com,3,Delhi,14,Paid,Placed,Cognizant,5.12
+184,Chetan Bhagat,AI&DS,57.7,89.7,chetan.bhagat@example.com,4,Kolkata,11,Pending,Not Eligible,,
+185,Damini Patel,CSE,68.4,58.2,damini.patel@example.com,5,Hyderabad,12,Paid,Not Placed,,
+186,Esha Deol,ECE,69.0,78.7,esha.deol@example.com,6,Bangalore,15,Pending,Placed,Accenture,3.98
+187,Farhan Akhtar,IT,86.4,86.7,farhan.akhtar@example.com,7,Chennai,12,Pending,Placed,Infosys,10.67
+188,Gitanjali Rao,EEE,82.4,73.3,gitanjali.rao@example.com,8,Pune,15,Paid,Placed,Wipro,5.83
+189,Himesh Reshammiya,Mechanical,93.2,72.0,himesh.reshammiya@example.com,1,Mumbai,8,Paid,Placed,Accenture,4.64
+190,Ila Arun,Civil,75.3,57.3,ila.arun@example.com,2,Delhi,7,Paid,Not Placed,,
+191,Jatin Das,AI&DS,60.1,49.7,jatin.das@example.com,3,Kolkata,14,Paid,Not Eligible,,
+192,Kalyani Roy,CSE,85.7,90.8,kalyani.roy@example.com,4,Hyderabad,13,Paid,Placed,Cognizant,8.46
+193,Lata Mangeshkar,ECE,87.7,90.9,lata.mangeshkar@example.com,5,Bangalore,15,Paid,Placed,Infosys,11.72
+194,Mohit Chauhan,IT,79.1,77.3,mohit.chauhan@example.com,6,Chennai,12,Paid,Placed,TCS,11.83
+195,Nisha Kaur,EEE,88.2,62.3,nisha.kaur@example.com,7,Pune,14,Paid,Placed,Cognizant,3.67
+196,Ojaswi Sharma,Mechanical,76.2,62.8,ojaswi.sharma@example.com,8,Mumbai,9,Paid,Placed,Accenture,3.8
+197,Pranab Mukherjee,Civil,77.5,82.0,pranab.mukherjee@example.com,1,Delhi,9,Paid,Placed,Amazon,27.13
+198,Qamar Jahan,AI&DS,73.4,90.8,qamar.jahan@example.com,2,Kolkata,6,Paid,Not Placed,,
+199,Radhika Apte,CSE,56.1,90.2,radhika.apte@example.com,3,Hyderabad,13,Paid,Not Eligible,,
+200,Sachin Tendulkar,ECE,59.6,84.8,sachin.tendulkar@example.com,4,Bangalore,8,Paid,Not Eligible,,
